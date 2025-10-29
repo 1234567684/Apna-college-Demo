@@ -1,4 +1,5 @@
-# Apna-college-Demo
+# Apna-college-Demo  
+
 This is my first git repository.
 <br>
-Author : Piyush Khadake.
+Author : Piyush (Khadake).
